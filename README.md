@@ -10,7 +10,7 @@
 
 4. **Agora**: Highly effective democratic system and social network that gamifies accuracy, and promotes both unmonolithic agreement and productive debate
 
-5. **Rokocoin**: Currency mined by disclosing data that is later found to be valuable
+5. **Rokocoin (℟)**: Currency mined by disclosing data that is later found to be valuable
 
 6. **Gengine**: General Engine for Intelligent Games and the economy for the meritocracy
 
