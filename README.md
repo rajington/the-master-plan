@@ -1,21 +1,29 @@
 # 10 Steps Embracing Tech to Improve Society
 
-0. **GraphQL**: Language for all data and operations emphasizing composibility and collaboration
+> This is heavily a work-in-progress, currently a rough plan to address some tech problems in the form of a listicle. Highly subject to change, renaming, reordering. Each step is not worth challenging until validating earlier ideas, but worth disucssing altogether as a cohesive strategy.
 
-1. **uno**: Universal monorepo embracing schema-driven development, blurring frontend and backend, respecting content, continuously deployed, and infinitely scalable to any organization
+## Schema Driven (_Technical_)
 
-2. **Open Schemas**: Legislation requiring large organizations to communicate, even internally, over openly accessible schemas
+0. _language_ (**GraphQL**): a standard way to discuss data
 
-3. **Omnifactor**: Distributed authentication system that respects privacy while enabling data sharing
+1. _platform_ (**uno**): a data-centric platform, that can scale to all use cases
 
-4. **Agora**: Highly effective democratic system and social network that gamifies accuracy, and promotes both unmonolithic agreement and productive debate
+2. _collaboration_ (**web cha-cha-cha**): improve and leverage data sharing
 
-5. **Rokocoin (℟)**: Currency mined by disclosing data that is later found to be valuable
+3. _identity_ (**omni-factor**): authentication leveraging data networks
 
-6. **Gengine**: General Engine for Intelligent Games and the economy for the meritocracy
+## Social Studies (_Societal_)
 
-7. **Bibles**: Sets of ideals and the mythologies that embrace them
+4. _society_ (**agora**): accuracy-incentivized and bubble-bursting debates
 
-8. **God**: All-knowing omnipresent governing body
+5. _competition_ (**gengine**): the economy for the meritocracy
 
-9. **Life**: Why
+6. _money_ (**rokocoin**): currency mined by sharing valuable data
+
+7. _scripture_ (**bibles**): crowdsourced moral beliefs and practices for ethical conduct
+
+## Conclusion
+
+8. _leadership_ (**god**): not the "creator" but the conductor
+
+9. _creation_ (**life**): why we are here, its purpose
